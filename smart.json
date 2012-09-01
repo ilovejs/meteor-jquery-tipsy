@@ -5,4 +5,7 @@
     "author": "Iain Shigeoka (http://iain.shigeoka.com)",
     "version": "0.1.7",
     "git": "https://github.com/IainShigeoka/meteor-jquery-tipsy.git"
+    "packages":{
+        "jquery":{}
+    }
 }
