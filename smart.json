@@ -1,0 +1,8 @@
+{
+    "name": "jquery-tipsy",
+    "description": "Tipsy - Facebook-style tooltip plugin for jQuery",
+    "homepage": "https://github.com/IainShigeoka/meteor-jquery-tipsy",
+    "author": "Iain Shigeoka (http://iain.shigeoka.com)",
+    "version": "0.1.7",
+    "git": "https://github.com/IainShigeoka/meteor-jquery-tipsy.git"
+}
